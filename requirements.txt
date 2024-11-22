@@ -1,0 +1,6 @@
+ezcord
+py-cord
+requests
+validators
+youtube_dl
+aiohttp
